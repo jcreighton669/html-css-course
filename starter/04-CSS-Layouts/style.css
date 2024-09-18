@@ -269,6 +269,7 @@ nav p {
 } */
 
 /* FLOATS */
+/* 
 .author-img {
   float: left;
   margin-bottom: 20px;
@@ -310,4 +311,10 @@ aside {
 
 footer {
   clear: both;
+} 
+*/
+
+/* FLEXBOX */
+.main-header {
+  display: flex;
 }
